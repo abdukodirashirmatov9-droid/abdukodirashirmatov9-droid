@@ -7,19 +7,19 @@
 ## About Me
 
 - Studying Information Systems and Technologies
-- Building practical projects while developing my backend skills
+- Developing my skills in backend and software development
 - Interested in APIs, automation, and Telegram bot development
 - Looking for an IT internship where I can learn from an engineering team and contribute to real projects
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, C++  
-**Backend:** Node.js, NestJS, Python (aiogram)  
+**Languages:** JavaScript, TypeScript, C++  
+**Backend:** Node.js, NestJS  
 **Tools:** Git, GitHub, VS Code, Linux
 
 ## Projects
 
-- **Telegram bots** — experimenting with bot development and integrations using Python and JavaScript/TypeScript.
+- **Telegram bots** — building bots and integrations with JavaScript/TypeScript.
 - **University projects** — programming assignments and practical work related to information systems.
 
 I'll keep adding projects with clear documentation, setup instructions, and examples as they are ready.
@@ -28,7 +28,7 @@ I'll keep adding projects with clear documentation, setup instructions, and exam
 
 - Strengthening backend fundamentals
 - Building and documenting REST API projects
-- Improving testing, databases, and software design skills
+- Learning databases, testing, and software design
 
 ## Contact
 
