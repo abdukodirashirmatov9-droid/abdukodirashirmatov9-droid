@@ -1,34 +1,31 @@
 # Hi, I'm Abdukodir Ashirmatov 👋
 
 🎓 Information Systems and Technologies student at Moscow Polytechnic University  
-💻 Aspiring Backend Developer  
-📍 Based in Moscow, Russia
+💻 Aspiring Software Developer
 
 ## About Me
 
 - Studying Information Systems and Technologies
-- Developing my skills in backend and software development
-- Interested in APIs, automation, and Telegram bot development
-- Looking for an IT internship where I can learn from an engineering team and contribute to real projects
+- Learning programming and software development fundamentals
+- Interested in building useful applications and improving my problem-solving skills
+- Open to learning opportunities and beginner-friendly IT internships
 
-## Tech Stack
+## Skills & Tools
 
-**Languages:** JavaScript, TypeScript, C++  
-**Backend:** Node.js, NestJS  
-**Tools:** Git, GitHub, VS Code, Linux
+- **Programming:** C++
+- **Web fundamentals:** HTML, CSS
+- **Tools:** Git, GitHub, Linux
 
 ## Projects
 
-- **Telegram bots** — building bots and integrations with JavaScript/TypeScript.
-- **University projects** — programming assignments and practical work related to information systems.
-
-I'll keep adding projects with clear documentation, setup instructions, and examples as they are ready.
+I'm working on strengthening my fundamentals through university assignments and practice projects. I'll add repositories here as I complete and document them.
 
 ## Current Focus
 
-- Strengthening backend fundamentals
-- Building and documenting REST API projects
-- Learning databases, testing, and software design
+- Improving my C++ programming skills
+- Practicing HTML and CSS
+- Learning Git workflows and working in Linux
+- Building a foundation in software development
 
 ## Contact
 
@@ -36,4 +33,4 @@ I'll keep adding projects with clear documentation, setup instructions, and exam
 
 ---
 
-*Learning by building, one project at a time.*
+*Learning step by step and building practical skills.*
