@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! I'm Abdukodir Ashirmatov 👋
 
-<!--
-**abdukodirashirmatov9-droid/abdukodirashirmatov9-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm an Information Technology student at Moscow Polytechnic University, passionate about software development and backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Information Systems and Technologies
+- 💻 Learning and building projects with Python, C++, and JavaScript
+- 🚀 Interested in Backend Development and API development
+- 🌱 Improving my programming and problem-solving skills
+- 🎯 Looking for an IT internship and opportunities to gain real-world experience
+
+### 🛠 Tech Stack
+
+**Languages:** Python, C++, JavaScript
+
+**Tools:** Git, GitHub, VS Code, Linux
+
+**Areas of Interest:** Backend Development, REST APIs, Databases, Automation
+
+### 📂 Projects
+
+I'm currently preparing and publishing my academic and personal programming projects.
+
+### 📫 Connect With Me
+
+- GitHub: [abdukodirashirmatov9-droid](https://github.com/abdukodirashirmatov9-droid)
+
+---
+
+*Always learning, building, and improving.*
